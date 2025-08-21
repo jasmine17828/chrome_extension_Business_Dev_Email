@@ -1,1 +1,1 @@
-[AI_BusinessEmail_Flow.docx](https://github.com/user-attachments/files/21902918/AI_BusinessEmail_Flow.docx)
+[[AI_BusinessEmail_Flow.docx](https://github.com/user-attachments/files/21902918/AI_BusinessEmail_Flow.docx)](https://lemon-jar-d5b.notion.site/Chrome-Extension-AI-2553cfacee1a800284d2ff7b41daf0cd?source=copy_link)
