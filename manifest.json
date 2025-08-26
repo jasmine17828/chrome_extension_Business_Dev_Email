@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "AI 商業開發信產生器（Vue 版）",
+  "description": "使用本機 FastAPI 後端，從公司簡介生成英文商業開發信。",
+  "version": "1.1.0",
+  "action": {
+    "default_title": "AI 商業開發信產生器（Vue）",
+    "default_popup": "dist/popup.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "http://localhost:*/",
+    "http://127.0.0.1:*/"
+  ],
+  "options_page": "dist/options.html"
+}
